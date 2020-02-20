@@ -24,4 +24,11 @@ class QuickBeeColors {
   Color yellowAccent(){
     return Color(0xFFF3B163);
   }
+
+  Color facebook(){
+    return Color(0xFF4564A4);
+  }
+  Color google(){
+    return Color(0xFFDF513C);
+  }
 }
